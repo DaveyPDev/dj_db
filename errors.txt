@@ -1,0 +1,5 @@
+Currently running into the problem of something
+like playlists works songs works
+but when you click playlists the id isn't
+lining up with the table ids? i think?
+something to that effect
